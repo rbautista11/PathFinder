@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lab4")
+set(lab4_MAINTAINER "rafael <rafael@todo.todo>")
+set(lab4_DEPRECATED "")
+set(lab4_VERSION "0.0.0")
+set(lab4_BUILD_DEPENDS "actionlib" "move_base_msgs" "roscpp" "tf")
+set(lab4_RUN_DEPENDS "actionlib" "move_base_msgs" "roscpp" "tf")
+set(lab4_BUILDTOOL_DEPENDS "catkin")

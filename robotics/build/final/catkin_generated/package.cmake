@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "final")
+set(final_MAINTAINER "rafael <rafael@todo.todo>")
+set(final_DEPRECATED "")
+set(final_VERSION "0.0.0")
+set(final_BUILD_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "nav_msgs")
+set(final_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "nav_msgs")
+set(final_BUILDTOOL_DEPENDS "catkin")

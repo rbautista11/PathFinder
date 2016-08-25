@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "lab5")
+set(lab5_MAINTAINER "rafael <rafael@todo.todo>")
+set(lab5_DEPRECATED "")
+set(lab5_VERSION "0.0.0")
+set(lab5_BUILD_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs")
+set(lab5_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs")
+set(lab5_BUILDTOOL_DEPENDS "catkin")
