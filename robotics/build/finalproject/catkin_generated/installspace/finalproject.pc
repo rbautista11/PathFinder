@@ -1,8 +1,0 @@
-prefix=/home/rafael/CSE180/install
-
-Name: finalproject
-Description: Description of finalproject
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/rafael/CSE180/install/lib 
-Requires: 

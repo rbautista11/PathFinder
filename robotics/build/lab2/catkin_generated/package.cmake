@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "lab2")
-set(lab2_MAINTAINER "rafael <rafael@todo.todo>")
-set(lab2_DEPRECATED "")
-set(lab2_VERSION "0.0.0")
-set(lab2_BUILD_DEPENDS "roscpp" "turtlesim" "tf")
-set(lab2_RUN_DEPENDS "roscpp" "turtlesim" "tf")
-set(lab2_BUILDTOOL_DEPENDS "catkin")

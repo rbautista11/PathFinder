@@ -1,2 +1,2 @@
 amr-ros-config-master/description:amr-ros-config-master/gazebo:amr-ros-config-master/launch:pathFinder:robotics_course
--DCATKIN_DEVEL_PREFIX=/home/rafael/Documents/robotics/devel -DCMAKE_INSTALL_PREFIX=/home/rafael/Documents/robotics/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/rafael/Documents/PathFinder/robotics/devel -DCMAKE_INSTALL_PREFIX=/home/rafael/Documents/PathFinder/robotics/install -G Unix Makefiles

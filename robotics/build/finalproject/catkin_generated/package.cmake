@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "finalproject")
-set(finalproject_MAINTAINER "rafael <rafael@todo.todo>")
-set(finalproject_DEPRECATED "")
-set(finalproject_VERSION "0.0.0")
-set(finalproject_BUILD_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "sensor_msgs")
-set(finalproject_RUN_DEPENDS "geometry_msgs" "nav_msgs" "roscpp" "sensor_msgs")
-set(finalproject_BUILDTOOL_DEPENDS "catkin")

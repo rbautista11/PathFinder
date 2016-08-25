@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "lab7")
-set(lab7_MAINTAINER "rafael <rafael@todo.todo>")
-set(lab7_DEPRECATED "")
-set(lab7_VERSION "0.0.0")
-set(lab7_BUILD_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs")
-set(lab7_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs")
-set(lab7_BUILDTOOL_DEPENDS "catkin")

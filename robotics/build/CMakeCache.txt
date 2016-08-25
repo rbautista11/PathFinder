@@ -21,7 +21,7 @@ BUILD_SHARED_LIBS:BOOL=ON
 CATKIN_BLACKLIST_PACKAGES:STRING=
 
 //catkin devel space
-CATKIN_DEVEL_PREFIX:PATH=/home/rafael/Documents/robotics/devel
+CATKIN_DEVEL_PREFIX:PATH=/home/rafael/Documents/PathFinder/robotics/devel
 
 //Catkin enable testing
 CATKIN_ENABLE_TESTING:BOOL=ON

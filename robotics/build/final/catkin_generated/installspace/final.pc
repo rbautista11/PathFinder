@@ -1,8 +1,0 @@
-prefix=/home/rafael/CSE180/install
-
-Name: final
-Description: Description of final
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/rafael/CSE180/install/lib 
-Requires: 
